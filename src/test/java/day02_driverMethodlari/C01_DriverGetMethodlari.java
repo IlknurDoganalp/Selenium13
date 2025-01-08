@@ -4,6 +4,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class C01_DriverGetMethodlari {
+    /*
+     * Driver'in metodlari:
+     * get(String url): web sayfasina yonlendirmek icin kullanilir
+     * getTitle(): web sayfasinin basligini dondurur
+     * getCurrentUrl(): web sayfasinin bulundugu url'i dondurur
+
+     */
 
     public static void main(String[] args) throws InterruptedException {
 
